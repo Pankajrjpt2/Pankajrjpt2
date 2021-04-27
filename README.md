@@ -1,24 +1,22 @@
-### Hi there 👋
 
-### Hola Fellow Developerswave
-https://ayush-kumar.herokuapp.com/
-My name is Ayush Kumar, I am an enthusiastic software developer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Development with strong command in managing live projects as freelancer, leading team with result-oriented attitude.
+### Hola Fellow Developerswave 👋
 
-# Email : Ayushraichand1@gmail.com
-Linkedin Profile : https://www.linkedin.com/in/ayush-kumar-1011/
+
+My name is Pankaj Rajput, I am an enthusiastic software developer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Development with strong command in managing live projects as freelancer, leading team with result-oriented attitude.
+
+# Email : Pankajrjpt2@gmail.com
+Linkedin Profile : https://www.linkedin.com/in/pankajrjpt
 You can take an overview of my technology stack and highlighted project here.
 TECHNICAL SKILLS
-Computer Programming Languages - C, C++, JAVA,Python,Kotlin(android)
+Computer Programming Languages - C/C++, JAVA
 
-Frameworks & Libraries - React Native,React js,Express js,Redux,
+Frameworks & Libraries - Express js
 
-Website Development - HTML, CSS (Griddle Framework), Bootstrap,React js,JavaScript, ES6
+Website Development - HTML, CSS ,JavaScript
 
-Mobile App Development - Android ,Hybrid Application
-
-Database & Analysis tools - MongoDB,Firebase,MySQL
+Database & Analysis tools - MongoDB,MySQL
 
 Operating System - Linux/Unix
 
-Devops & Management tools - Github,Docker,Aws
+Devops & Management tools - Github
 
