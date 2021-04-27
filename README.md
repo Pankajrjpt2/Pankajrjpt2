@@ -7,7 +7,8 @@ My name is Pankaj Rajput, I am an enthusiastic software developer. I am very pas
 # Email : Pankajrjpt2@gmail.com
 Linkedin Profile : https://www.linkedin.com/in/pankajrjpt
 You can take an overview of my technology stack and highlighted project here.
-TECHNICAL SKILLS
+TECHNICAL SKILLS  
+
 Computer Programming Languages - C/C++, JAVA
 
 Frameworks & Libraries - Express js
