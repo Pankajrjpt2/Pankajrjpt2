@@ -11,7 +11,7 @@ You can take an overview of my technology stack and highlighted project here.
 
 ## TECHNICAL SKILLS  
 
-Computer Programming Languages - C/C++, JAVA
+Computer Programming Languages - C/C++, JAVA, Kotlin
 
 Frameworks & Libraries - Express js
 
