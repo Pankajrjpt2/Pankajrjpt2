@@ -17,7 +17,7 @@ Frameworks & Libraries - Express js
 
 Website Development - HTML, CSS ,JavaScript
 
-Database & Analysis tools - MongoDB,MySQL
+Database & Analysis tools - MongoDB,MySQL,Firebase
 
 Operating System - Linux/Unix
 
