@@ -21,5 +21,7 @@ Database & Analysis tools - MongoDB,MySQL
 
 Operating System - Linux/Unix
 
+Scripting Language - Powershell Script / .NET, VBScript
+
 Devops & Management tools - Github
 
